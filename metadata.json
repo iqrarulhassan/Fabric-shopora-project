@@ -15,17 +15,17 @@
 		"sink_file" : "sales_details.csv"
 	},
 	{
-		"source_rel_url" : "iqrarulhassan/Fabric-shopora-project/refs/heads/main/Dataset/EPR_Source/CUST_AZ12.csv",
+		"source_rel_url" : "iqrarulhassan/Fabric-shopora-project/refs/heads/main/Dataset/ERP_Source/CUST_AZ12.csv",
 		"sink_folder" : "CUST_AZ12",
 		"sink_file" : "CUST_AZ12.csv"
 	},
 	{
-		"source_rel_url":"iqrarulhassan/Fabric-shopora-project/refs/heads/main/Dataset/EPR_Source/LOC_A101.csv",
+		"source_rel_url":"iqrarulhassan/Fabric-shopora-project/refs/heads/main/Dataset/ERP_Source/LOC_A101.csv",
 		"sink_folder" : "LOC_A101",
 		"sink_file" : "LOC_A101.csv"
 	},
 	{
-		"source_rel_url" : "iqrarulhassan/Fabric-shopora-project/refs/heads/main/Dataset/EPR_Source/PX_CAT_G1V2.csv",
+		"source_rel_url" : "iqrarulhassan/Fabric-shopora-project/refs/heads/main/Dataset/ERP_Source/PX_CAT_G1V2.csv",
 		"sink_folder" : "PX_CAT_G1V2",
 		"sink_file" : "PX_CAT_G1V2.csv"
 	}
